@@ -5,12 +5,4 @@
 	echo "Ready to Stash";
 	echo "Stash execize OK";
 	echo "a";
-	A
-	B
-	D
-	E
-	X
-	G
-	HP
-	I
 ?>
