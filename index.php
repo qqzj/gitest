@@ -7,11 +7,10 @@
 	echo "a";
 	A
 	B
-	C
 	D
 	E
-	F
+	X
 	G
-	H
+	HP
 	I
 ?>
