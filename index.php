@@ -5,4 +5,13 @@
 	echo "Ready to Stash";
 	echo "Stash execize OK";
 	echo "a";
+	A
+	B
+	C
+	D
+	E
+	F
+	G
+	H
+	I
 ?>
